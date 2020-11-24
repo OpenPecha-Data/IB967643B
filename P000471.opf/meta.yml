@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1GS8
   title: ཕྱག་རྡོར་གསོ་རིག་ཕྱོགས་བསྒྲིགས།
-  volume: ''
+  volume:
+    cd912a55a5944011a7b3177f1c2c33e1:
+      image_group_id: I1PD452
+      title: Volume 1 of phyag rdor gso rig phyogs bsgrigs
+      volume_number: 1
+      total_pages: 500
   author: ''
+ebook_metadata:
+  title: ཕྱག་རྡོར་གསོ་རིག་ཕྱོགས་བསྒྲིགས།
+  author: ''
+  sku: P000471
+  cover: cover.jpg
+  layers:
+  - pagination
